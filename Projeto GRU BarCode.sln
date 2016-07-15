@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "Projeto GRU BarCode", "Projeto GRU BarCode\Projeto GRU BarCode.rptproj", "{BEC2DB68-916F-4478-8553-13B179B52D4E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		DebugLocal|Default = DebugLocal|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BEC2DB68-916F-4478-8553-13B179B52D4E}.Debug|Default.ActiveCfg = Debug
+		{BEC2DB68-916F-4478-8553-13B179B52D4E}.Debug|Default.Build.0 = Debug
+		{BEC2DB68-916F-4478-8553-13B179B52D4E}.Debug|Default.Deploy.0 = Debug
+		{BEC2DB68-916F-4478-8553-13B179B52D4E}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{BEC2DB68-916F-4478-8553-13B179B52D4E}.DebugLocal|Default.Build.0 = DebugLocal
+		{BEC2DB68-916F-4478-8553-13B179B52D4E}.Release|Default.ActiveCfg = Release
+		{BEC2DB68-916F-4478-8553-13B179B52D4E}.Release|Default.Build.0 = Release
+		{BEC2DB68-916F-4478-8553-13B179B52D4E}.Release|Default.Deploy.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
